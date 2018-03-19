@@ -1,4 +1,4 @@
-# counter-app
+# async-app
 
 It's a demo for hyper-value lib (https://github.com/int0h/hyper-value).
 
