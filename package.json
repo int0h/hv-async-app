@@ -1,0 +1,21 @@
+{
+  "name": "counter-app",
+  "version": "1.0.0",
+  "description": "It's a demo for hyper-value lib (https://github.com/int0h/hyper-value).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-typescript-loader": "^3.5.0",
+    "hv-dom": "^0.1.2",
+    "hv-jsx": "^0.1.2",
+    "hyper-value": "^0.1.2",
+    "source-map-loader": "^0.2.3",
+    "typescript": "^2.7.2"
+  },
+  "devDependencies": {}
+}
